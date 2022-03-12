@@ -8,7 +8,7 @@ graphene==2.1.9
 graphene-django==2.15.0
 graphql-core==2.3.2
 graphql-relay==2.0.1
-Pillow==9.0.0
+Pillow==9.0.1
 promise==2.3
 pyasn1==0.4.8
 pycodestyle==2.8.0
